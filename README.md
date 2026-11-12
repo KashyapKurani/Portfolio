@@ -80,6 +80,23 @@ My portfolio includes hands-on projects focused on Linux, automation, AWS, Infra
 
 Explore the individual project repositories through my [GitHub profile](https://github.com/KashyapKurani).
 
+## 📸 Website Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Work Experience
+![Experience](screenshots/experience.png)
+
+### Certifications
+![Certifications](screenshots/certifications.png)
+
+### Projects
+![Projects](screenshots/projects.png)
+
+### Mobile Responsive View
+![Mobile](screenshots/mobile-view.png)
+
 ## 📂 Project Structure
 
 ```text
