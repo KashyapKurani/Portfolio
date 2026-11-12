@@ -1,45 +1,86 @@
-# Kashyap Kurani – Personal Portfolio
+# Kashyap Kurani | Cloud & DevOps Engineer
 
-A modern, responsive personal portfolio website showcasing my professional background, technical skills, cloud engineering journey, and hands-on projects.
+<p align="center">
+  <img src="assets/favicon.svg" width="70" alt="Kashyap Logo">
+</p>
 
-🌐 **Live Website:** [https://kashyapkurani.github.io/Portfolio/](https://kashyapkurani.github.io/Portfolio/)
+<h3 align="center">Personal Portfolio Website</h3>
 
-💻 **GitHub Profile:** [KashyapKurani](https://github.com/KashyapKurani)
+<p align="center">
+  Showcasing my professional experience, technical skills, certifications, and hands-on projects in Cloud Computing and DevOps.
+</p>
+
+<p align="center">
+  <a href="https://kashyapkurani.github.io/Portfolio/">🌐 Live Portfolio</a> •
+  <a href="https://github.com/KashyapKurani">GitHub Profile</a> •
+  <a href="https://www.linkedin.com/in/kashyapkurani/">LinkedIn</a>
+</p>
 
 ---
 
-## Overview
+## 📌 Overview
 
-This portfolio serves as my personal space to showcase my journey toward becoming a Cloud & DevOps Engineer.
+This repository contains my personal portfolio website, built to showcase my professional journey, technical expertise, certifications, and practical projects.
 
-It highlights my technical interests, practical experience, GitHub projects, and continuous learning in cloud infrastructure and automation.
+The portfolio highlights my experience in IT operations and infrastructure support, along with my learning journey toward Cloud Engineering and AWS DevOps.
 
-The website is built using fundamental web technologies and hosted using GitHub Pages.
+The website is designed with a modern dark-themed interface, responsive layouts, interactive elements, and smooth animations.
 
-## Features
+## ✨ Features
 
 - Modern dark-themed user interface
 - Responsive design for desktop and mobile devices
-- Interactive navigation
-- Dedicated About section
+- Interactive navigation and smooth scrolling
+- Professional About section
+- Work Experience timeline
 - Technical Skills showcase
-- Project portfolio with GitHub links
-- Contact and social profile links
+- Certifications with credential verification links
+- Hands-on Projects showcase
+- Contact and social media links
 - Custom favicon
-- Smooth animations and hover effects
+- Hover effects and animations
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Technology | Purpose |
 |---|---|
 | HTML5 | Website structure |
-| CSS3 | Styling, layouts and responsiveness |
+| CSS3 | Styling, animations and responsive layouts |
 | JavaScript | Interactivity and dynamic behavior |
 | Git | Version control |
-| GitHub | Source code repository |
+| GitHub | Source code management |
 | GitHub Pages | Static website hosting |
 
-## Project Structure
+## 💼 Work Experience
+
+### Tata Consultancy Services (TCS)
+
+**IT Operations & Infrastructure Support**
+
+December 2023 – Present
+
+Experience across multiple teams and responsibilities:
+
+- **Infrastructure Monitoring:** L1 monitoring and troubleshooting of Linux servers, Windows servers and network devices.
+- **Middleware Operations:** Exposure to middleware environments and manual application deployments.
+- **Tools & AI Initiatives:** Working with infrastructure tools and gaining exposure to infrastructure architecture and AI-related initiatives.
+
+## 🏆 Certifications
+
+| Certification | Issuer | Credential |
+|---|---|---|
+| GitHub Foundations (GH-900) | GitHub | [Verify](https://lnkd.in/p/ddz7GZNu) |
+| GitHub Actions (GH-200) | GitHub | [Verify](https://lnkd.in/p/daxGJVr7) |
+| AWS Certified Cloud Practitioner | AWS | [Verify](https://lnkd.in/p/d3ku4N42) |
+| AWS Certified Solutions Architect – Associate | AWS | [Verify](https://lnkd.in/p/dSu9ZwuE) |
+
+## 🚀 Projects
+
+My portfolio includes hands-on projects focused on Linux, automation, AWS, Infrastructure as Code, containers and CI/CD.
+
+Explore the individual project repositories through my [GitHub profile](https://github.com/KashyapKurani).
+
+## 📂 Project Structure
 
 ```text
 Portfolio/
@@ -54,69 +95,8 @@ Portfolio/
 │   └── script.js
 │
 ├── screenshots/
-│
-├── index.html
-├── README.md
-└── .gitignore
-```
-
-## Run Locally
-
-To run this project on your local machine:
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/KashyapKurani/Portfolio.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd Portfolio
-```
-
-**3. Start a local development server**
-
-```bash
-python3 -m http.server 8000
-```
-
-**4. Open in your browser**
-
-```text
-http://localhost:8000
-```
-
-## Deployment – GitHub Pages
-
-This website is hosted using GitHub Pages.
-
-Deployment configuration:
-
-- Repository: `KashyapKurani/Portfolio`
-- Branch: `main`
-- Source: Deploy from a branch
-- Folder: `/ (root)`
-
-Every time changes are pushed to the configured branch, GitHub Pages automatically updates the published website.
-
-## Future Enhancements
-
-- AWS S3 static website hosting
-- Infrastructure deployment automation
-- Custom domain integration
-- Continuous deployment improvements
-
-## Author
-
-**Kashyap Kurani**
-
-Aspiring Cloud & DevOps Engineer
-
-- GitHub: [KashyapKurani](https://github.com/KashyapKurani)
-- LinkedIn: [kashyapkurani](https://www.linkedin.com/in/kashyapkurani/)
-
----
-
-⭐ If you find this project useful, feel free to explore the repository and connect with me.
+│   ├── home.png
+│   ├── experience.png
+│   ├── certifications.png
+│   ├── projects.png
+│   └── mobile-view.png
